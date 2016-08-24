@@ -1,1 +1,20 @@
-/* Inserta tu CSS aqui */
+.contenedor	{
+	background-color: #D94A0D;
+	width: 400px;
+	height: 400px;
+}
+
+.delmedio 	{
+	background-color: purple;
+	width:200px;
+	height:200px;
+	position: relative;
+	left:100px;
+	top:100px;
+}
+.centro {
+	background-color: yellow;
+	position:absolute;
+	width:100px;
+	height:100px;
+}
